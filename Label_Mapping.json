@@ -1,3 +1,20 @@
 {
-    "bach": 0
+    "albeniz": 0,
+    "borodin": 1,
+    "bach": 2,
+    "beeth": 3,
+    "chopin": 4,
+    "debussy": 5,
+    "liszt": 6,
+    "brahms": 7,
+    "schumann": 8,
+    "balakir": 9,
+    "mendelssohn": 10,
+    "haydn": 11,
+    "tschai": 12,
+    "granados": 13,
+    "muss": 14,
+    "grieg": 15,
+    "burgm": 16,
+    "mozart": 17
 }
